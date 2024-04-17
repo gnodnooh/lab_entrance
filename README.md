@@ -1,2 +1,2 @@
 # Lab_Entrance_Resources
-Resources for GSA Entrance Assignment
+This repository contains resources for GSA Entrance Assignment.
